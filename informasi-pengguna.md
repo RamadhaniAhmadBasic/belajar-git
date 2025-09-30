@@ -11,6 +11,6 @@ program with it.
 
 [Contacts]
 ----------------------------------------------------------------
-[Gmail](ramadhani.ahmad.basic@gmail.com)  : ramadhani.ahmad.basic@gmail.com
-[Github](https://github.com/RamadhaniAhmadBasic) : https://github.com/RamadhaniAhmadBasic
+Gmail  : ramadhani.ahmad.basic@gmail.com
+Github : https://github.com/RamadhaniAhmadBasic
 Telp.  : +62-812-5297-6514
